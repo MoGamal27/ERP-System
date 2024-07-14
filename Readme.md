@@ -65,7 +65,7 @@ This is a comprehensive ERP (Enterprise Resource Planning) system built using No
 - **Method**: `GET`
 - **Description**: Retrieve all marketing campaigns.
 - **Response**: 
-  ```json
+```json
  [
   {
     "_id": "60d21b8667d0d8992e610c86",
