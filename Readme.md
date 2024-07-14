@@ -37,16 +37,15 @@ This is a comprehensive ERP (Enterprise Resource Planning) system built using No
       "createdAt": "2024-07-14T12:00:00.000Z",
       "updatedAt": "2024-07-14T12:00:00.000Z"
     }
-  ]
+    ]
+  
 
 #### Add a Customer
 - **URL**: `/api/crm`
 - **Method**: `POST`
 - **Description**: Add a new customer.
 - **Response**: 
-  ```json
-  [
-    {
+{
   "_id": "60d21b8667d0d8992e610c85",
   "name": "John Doe",
   "email": "john@example.com",
@@ -56,7 +55,7 @@ This is a comprehensive ERP (Enterprise Resource Planning) system built using No
   "createdAt": "2024-07-14T12:00:00.000Z",
   "updatedAt": "2024-07-14T12:00:00.000Z"
 }
-  ]
+  
 
   #### Marketing Module
   ## Get All Campaigns
@@ -216,6 +215,7 @@ This is a comprehensive ERP (Enterprise Resource Planning) system built using No
   "updatedAt": "2024-07-14T12:00:00.000Z"
 }
 ]
+
 
 
 
