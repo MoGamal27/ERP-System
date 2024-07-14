@@ -1,0 +1,39 @@
+ERP-System/
+│
+├── controllers/
+│   ├── crmController.js
+│   ├── marketingController.js
+│   ├── hrController.js
+│   ├── projectManagementController.js
+│   ├── supportTicketingController.js
+│
+├── models/
+│   ├── crm.js
+│   ├── marketing.js
+│   ├── hr.js
+│   ├── projectManagement.js
+│   ├── supportTicketing.js
+│
+├── routes/
+│   ├── crmRoutes.js
+│   ├── marketingRoutes.js
+│   ├── hrRoutes.js
+│   ├── projectManagementRoutes.js
+│   ├── supportTicketingRoutes.js
+│
+├── services/
+│   ├── crmService.js
+│   ├── marketingService.js
+│   ├── hrService.js
+│   ├── projectManagementService.js
+│   ├── supportTicketingService.js
+│
+├── utils/
+│   ├── db.js
+│   ├── logger.js
+│   ├── appError.js
+│
+├── app.js
+├── config.js
+├── package.json
+└── README.md
